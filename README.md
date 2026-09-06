@@ -12,13 +12,13 @@ node server.js# rd-goldenempire-nodes_js
 * Comprehensive test coverage
 
 ## Getting Started
-
+command start: npm start
 ### Prerequisites
 * Node.js version 18.x or higher
 * npm or yarn
 
 ### Installation
 ```bash
-git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
+git clone [https://github.com/username/project-name.git]{https://rdgoldenempire_AztecTide(https://github.com/username/project-name.git)
 cd project-name
 npm install
