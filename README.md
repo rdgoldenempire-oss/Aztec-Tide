@@ -22,4 +22,4 @@ command start: npm start
 git clone [https://github.com/username/project-name.git]{https://rdgoldenempire_AztecTide(https://github.com/username/project-name.git)
 cd project-name
 npm install
-RD-goldenpire.onrender.com
+RD-goldenpire.onrender.com/store.com
